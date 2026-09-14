@@ -1,3 +1,4 @@
+import asyncio
 # --- ВЕБ-СЕРВЕР ДЛЯ RENDER ---
 async def handle_ping(request):
     return web.Response(text="Bot is alive!")
