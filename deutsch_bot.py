@@ -14,7 +14,7 @@ BOT_TOKEN = "8994443509:AAHfD5CYvZYhGDOLeqEjErEAXqj-e8NxE3g"
 
 logging.basicConfig(level=logging.INFO)
 
-# Ініціалізація бота без проксі (для Render)
+# Ініціалізація бота
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
