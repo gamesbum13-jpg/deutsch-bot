@@ -1,0 +1,931 @@
+[
+  {
+    "word": "Na?",
+    "forms": "вигук",
+    "trans": "Привіт! / Як справи? / Ну що?",
+    "ex": "Na, alles klar bei dir?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Na ja",
+    "forms": "вигук",
+    "trans": "ну, як сказати / так собі",
+    "ex": "Na ja, es geht so.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Quatsch",
+    "forms": "без мн.",
+    "trans": "нісенітниця / дурниці",
+    "ex": "Erzähl doch keinen Quatsch!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Feierabend",
+    "forms": "-e",
+    "trans": "кінець робочого дня / відпочинок",
+    "ex": "Ich mache jetzt Feierabend!",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Alles klar",
+    "forms": "фраза",
+    "trans": "все зрозуміло / гаразд",
+    "ex": "Alles klar, ich komme mit.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Bock haben",
+    "forms": "дієслівний зворот",
+    "trans": "мати бажання / хотітися",
+    "ex": "Ich habe Bock auf Pizza.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "checken",
+    "forms": "дієслово",
+    "trans": "розуміти / перевіряти",
+    "ex": "Checkst du das?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Kerl",
+    "forms": "-e",
+    "trans": "хлопець / чоловік",
+    "ex": "Der Kerl da drüben ist mein Nachbar.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Sinn machen",
+    "forms": "дієслівний зворот",
+    "trans": "мати сенс",
+    "ex": "Das macht keinen Sinn.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "irgendwie",
+    "forms": "прислівник",
+    "trans": "якось / якось так",
+    "ex": "Irgendwie ist das komisch.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Digga",
+    "forms": "без мн.",
+    "trans": "чувак / братан",
+    "ex": "Digga, was geht ab?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "cringe",
+    "forms": "прикметник",
+    "trans": "незручний / соромітний",
+    "ex": "Das war echt cringe.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Yolo",
+    "forms": "вигук",
+    "trans": "живеш один раз",
+    "ex": "Komm, Yolo!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "läuft bei dir",
+    "forms": "фраза",
+    "trans": "у тебе все йде добре / молодець",
+    "ex": "Neuer Job? Läuft bei dir!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "das crazy",
+    "forms": "без мн.",
+    "trans": "це божевілля / вау",
+    "ex": "Das crazy!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "goonen",
+    "forms": "дієслово",
+    "trans": "марнувати час",
+    "ex": "Ich goone nur rum.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "checkst du",
+    "forms": "фраза",
+    "trans": "розумієш? / зрозуміло?",
+    "ex": "Wir treffen uns um acht, checkst du?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Handy",
+    "forms": "-s",
+    "trans": "мобільний телефон",
+    "ex": "Mein Handy ist leer.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "googeln",
+    "forms": "дієслово",
+    "trans": "гуглити",
+    "ex": "Ich google das mal.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "App",
+    "forms": "-s",
+    "trans": "додаток",
+    "ex": "Diese App ist super.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Browser",
+    "forms": "-",
+    "trans": "браузер",
+    "ex": "Öffne den Browser.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "update",
+    "forms": "-s",
+    "trans": "оновлення",
+    "ex": "Das Update ist verfügbar.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Bug",
+    "forms": "-s",
+    "trans": "помилка / баг",
+    "ex": "Das ist kein Bug, das ist ein Feature.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Feature",
+    "forms": "-s",
+    "trans": "функція",
+    "ex": "Das ist ein neues Feature.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Interface",
+    "forms": "-s",
+    "trans": "інтерфейс",
+    "ex": "Das Interface ist benutzerfreundlich.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Cloud",
+    "forms": "-s",
+    "trans": "хмара / хмарне сховище",
+    "ex": "Speichere das in der Cloud.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Backup",
+    "forms": "-s",
+    "trans": "резервна копія",
+    "ex": "Mach ein Backup!",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Datenbank",
+    "forms": "-en",
+    "trans": "база даних",
+    "ex": "Die Datenbank ist offline.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Server",
+    "forms": "-",
+    "trans": "сервер",
+    "ex": "Der Server ist down.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Passwort",
+    "forms": "-wörter",
+    "trans": "пароль",
+    "ex": "Ich habe mein Passwort vergessen.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Username",
+    "forms": "-s",
+    "trans": "ім'я користувача",
+    "ex": "Gib deinen Username ein.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "einloggen",
+    "forms": "дієслово",
+    "trans": "увійти в систему",
+    "ex": "Logge dich ein.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "ausloggen",
+    "forms": "дієслово",
+    "trans": "вийти з системи",
+    "ex": "Vergiss nicht, dich auszuloggen.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "herunterladen",
+    "forms": "дієслово",
+    "trans": "завантажити",
+    "ex": "Lade die Datei herunter.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "hochladen",
+    "forms": "дієслово",
+    "trans": "завантажити вгору",
+    "ex": "Lade das Bild hoch.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "speichern",
+    "forms": "дієслово",
+    "trans": "зберегти",
+    "ex": "Speichere die Datei.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "löschen",
+    "forms": "дієслово",
+    "trans": "видалити",
+    "ex": "Lösche den Ordner.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Ordner",
+    "forms": "-",
+    "trans": "папка",
+    "ex": "Der Ordner ist leer.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Datei",
+    "forms": "-en",
+    "trans": "файл",
+    "ex": "Die Datei ist zu groß.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "WLAN",
+    "forms": "без мн.",
+    "trans": "Wi-Fi",
+    "ex": "Wie ist das WLAN-Passwort?",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Bildschirm",
+    "forms": "-e",
+    "trans": "екран",
+    "ex": "Der Bildschirm ist schwarz.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Tastatur",
+    "forms": "-en",
+    "trans": "клавіатура",
+    "ex": "Die Tastatur funktioniert nicht.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Maus",
+    "forms": "Mäuse",
+    "trans": "мишка",
+    "ex": "Die Maus ist kaputt.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Laptop",
+    "forms": "-s",
+    "trans": "ноутбук",
+    "ex": "Mein Laptop ist langsam.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "Tablet",
+    "forms": "-s",
+    "trans": "планшет",
+    "ex": "Ich lese auf dem Tablet.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "iPad",
+    "forms": "-s",
+    "trans": "айпад",
+    "ex": "Das iPad ist praktisch.",
+    "cat": "📱 IT & iPad"
+  },
+  {
+    "word": "E-Mail",
+    "forms": "-s",
+    "trans": "електронний лист",
+    "ex": "Ich schicke dir eine E-Mail.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Meeting",
+    "forms": "-s",
+    "trans": "зустріч / нарада",
+    "ex": "Das Meeting ist um zehn.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Termin",
+    "forms": "-e",
+    "trans": "зустріч / призначений час",
+    "ex": "Ich habe einen Termin um drei.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Projekt",
+    "forms": "-e",
+    "trans": "проєкт",
+    "ex": "Das Projekt läuft gut.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Deadline",
+    "forms": "-s",
+    "trans": "дедлайн",
+    "ex": "Die Deadline ist nächste Woche.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Team",
+    "forms": "-s",
+    "trans": "команда",
+    "ex": "Unser Team ist stark.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Kollege",
+    "forms": "-n",
+    "trans": "колега",
+    "ex": "Mein Kollege hilft mir.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Chef",
+    "forms": "-s",
+    "trans": "шеф / начальник",
+    "ex": "Der Chef ist heute nicht da.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Abteilung",
+    "forms": "-en",
+    "trans": "відділ",
+    "ex": "Ich arbeite in der IT-Abteilung.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Besprechung",
+    "forms": "-en",
+    "trans": "нарада / обговорення",
+    "ex": "Die Besprechung dauert eine Stunde.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Aufgabe",
+    "forms": "-n",
+    "trans": "завдання",
+    "ex": "Diese Aufgabe ist wichtig.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Verantwortung",
+    "forms": "-en",
+    "trans": "відповідальність",
+    "ex": "Wer übernimmt die Verantwortung?",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Erfahrung",
+    "forms": "-en",
+    "trans": "досвід",
+    "ex": "Ich habe viel Erfahrung.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Bewerbung",
+    "forms": "-en",
+    "trans": "заявка / резюме",
+    "ex": "Ich schreibe eine Bewerbung.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Vertrag",
+    "forms": "Verträge",
+    "trans": "контракт / договір",
+    "ex": "Der Vertrag ist unterschrieben.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Gehalt",
+    "forms": "Gehälter",
+    "trans": "зарплата",
+    "ex": "Das Gehalt ist gut.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Urlaub",
+    "forms": "без мн.",
+    "trans": "відпустка",
+    "ex": "Ich nehme nächste Woche Urlaub.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "krank",
+    "forms": "прикметник",
+    "trans": "хворий",
+    "ex": "Ich bin heute krank.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Ich gebe das mal weiter",
+    "forms": "фраза",
+    "trans": "я це передам",
+    "ex": "Ich gebe das mal an die IT weiter.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Ich melde mich",
+    "forms": "фраза",
+    "trans": "я зв'яжуся",
+    "ex": "Ich melde mich heute noch.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Ich hake nach",
+    "forms": "фраза",
+    "trans": "я уточню",
+    "ex": "Ich hake bei HR nach.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "auf dem Schirm haben",
+    "forms": "зворот",
+    "trans": "пам'ятати / тримати в голові",
+    "ex": "Ich habe das Meeting noch auf dem Schirm.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "unter die Arme greifen",
+    "forms": "зворот",
+    "trans": "допомогти",
+    "ex": "Kannst du mir unter die Arme greifen?",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "in Angriff nehmen",
+    "forms": "зворот",
+    "trans": "розпочати",
+    "ex": "Wir nehmen das Projekt in Angriff.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "auf dem Laufenden bleiben",
+    "forms": "зворот",
+    "trans": "бути в курсі",
+    "ex": "Ich bleibe auf dem Laufenden.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Nägel mit Köpfen machen",
+    "forms": "зворот",
+    "trans": "зробити рішучий крок",
+    "ex": "Lass uns Nägel mit Köpfen machen!",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "auf die lange Bank schieben",
+    "forms": "зворот",
+    "trans": "відкладати в довгий ящик",
+    "ex": "Schieb das nicht auf die lange Bank!",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "den Nagel auf den Kopf treffen",
+    "forms": "зворот",
+    "trans": "влучити в точку",
+    "ex": "Deine Analyse trifft den Nagel auf den Kopf.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Da sind wir noch nicht ganz aligned",
+    "forms": "фраза",
+    "trans": "ми ще не зовсім узгодили",
+    "ex": "Da sind wir noch nicht ganz aligned.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen die PS auf die Straße bringen",
+    "forms": "фраза",
+    "trans": "треба перейти від слів до діла",
+    "ex": "Wir müssen die PS auf die Straße bringen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist ein Quick Win",
+    "forms": "фраза",
+    "trans": "це швидка перемога",
+    "ex": "Das ist ein Quick Win.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das eskalieren wir jetzt",
+    "forms": "фраза",
+    "trans": "ми це ескалюємо",
+    "ex": "Das eskalieren wir jetzt.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir brauchen hier mehr Ownership",
+    "forms": "фраза",
+    "trans": "потрібна більша відповідальність",
+    "ex": "Wir brauchen hier mehr Ownership.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das challengen wir nochmal",
+    "forms": "фраза",
+    "trans": "ми це ще раз оскаржимо",
+    "ex": "Das challengen wir nochmal.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Da müssen wir den Flurfunk im Blick behalten",
+    "forms": "фраза",
+    "trans": "треба стежити за чутками",
+    "ex": "Da müssen wir den Flurfunk im Blick behalten.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist auf unserem Radar",
+    "forms": "фраза",
+    "trans": "ми це відстежуємо",
+    "ex": "Das ist auf unserem Radar.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist historisch gewachsen",
+    "forms": "фраза",
+    "trans": "так історично склалося",
+    "ex": "Das ist historisch gewachsen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir fahren hier auf Sicht",
+    "forms": "фраза",
+    "trans": "діємо навпомацки",
+    "ex": "Wir fahren hier auf Sicht.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen das sauber aufgleisen",
+    "forms": "фраза",
+    "trans": "треба це чітко організувати",
+    "ex": "Wir müssen das sauber aufgleisen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist ein Leuchtturmprojekt",
+    "forms": "фраза",
+    "trans": "це флагманський проєкт",
+    "ex": "Das ist ein Leuchtturmprojekt.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir haben da ein paar Hausaufgaben",
+    "forms": "фраза",
+    "trans": "нам треба дещо доопрацювати",
+    "ex": "Wir haben da ein paar Hausaufgaben.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das Thema ist hochdynamisch",
+    "forms": "фраза",
+    "trans": "тема дуже динамічна",
+    "ex": "Das Thema ist hochdynamisch.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir wollen da keine Silos schaffen",
+    "forms": "фраза",
+    "trans": "не хочемо створювати ізольовані відділи",
+    "ex": "Wir wollen da keine Silos schaffen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen uns breiter aufstellen",
+    "forms": "фраза",
+    "trans": "треба розширити підхід",
+    "ex": "Wir müssen uns breiter aufstellen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist aktuell noch work in progress",
+    "forms": "фраза",
+    "trans": "це ще в процесі",
+    "ex": "Das ist aktuell noch work in progress.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir brauchen hier einen Single Point of Contact",
+    "forms": "фраза",
+    "trans": "потрібна одна контактна особа",
+    "ex": "Wir brauchen hier einen Single Point of Contact.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das wurde top-down entschieden",
+    "forms": "фраза",
+    "trans": "це вирішено зверху",
+    "ex": "Das wurde top-down entschieden.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen effizienter werden",
+    "forms": "фраза",
+    "trans": "треба стати ефективнішими",
+    "ex": "Wir müssen effizienter werden.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir sehen da noch Optimierungspotenzial",
+    "forms": "фраза",
+    "trans": "є ще простір для покращення",
+    "ex": "Wir sehen da noch Optimierungspotenzial.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Die Kommunikation war suboptimal",
+    "forms": "фраза",
+    "trans": "комунікація була не найкращою",
+    "ex": "Die Kommunikation war suboptimal.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir haben da unterschiedliche Erwartungshaltungen",
+    "forms": "фраза",
+    "trans": "у нас різні очікування",
+    "ex": "Wir haben da unterschiedliche Erwartungshaltungen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir haben da ambitionierte Ziele",
+    "forms": "фраза",
+    "trans": "у нас амбітні цілі",
+    "ex": "Wir haben da ambitionierte Ziele.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das nehmen wir mit ins nächste Steering Committee",
+    "forms": "фраза",
+    "trans": "винесемо це на наступний комітет",
+    "ex": "Das nehmen wir mit ins nächste Steering Committee.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen Synergien heben",
+    "forms": "фраза",
+    "trans": "треба використати синергію",
+    "ex": "Wir müssen Synergien heben.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir brauchen da einen pragmatischen Ansatz",
+    "forms": "фраза",
+    "trans": "потрібен прагматичний підхід",
+    "ex": "Wir brauchen da einen pragmatischen Ansatz.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir sollten das nochmal datenbasiert evaluieren",
+    "forms": "фраза",
+    "trans": "треба ще раз оцінити на основі даних",
+    "ex": "Wir sollten das nochmal datenbasiert evaluieren.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen jetzt einfach machen",
+    "forms": "фраза",
+    "trans": "треба просто зробити",
+    "ex": "Wir müssen jetzt einfach machen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Das ist eine Opportunität",
+    "forms": "фраза",
+    "trans": "це можливість",
+    "ex": "Das ist eine Opportunität.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Da würde ich gern nochmal einen Deep Dive machen",
+    "forms": "фраза",
+    "trans": "я б хотів глибше в це зануритися",
+    "ex": "Da würde ich gern nochmal einen Deep Dive machen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir müssen da enger verzahnt arbeiten",
+    "forms": "фраза",
+    "trans": "треба працювати тісніше",
+    "ex": "Wir müssen da enger verzahnt arbeiten.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Da müssen wir nochmal alle Stakeholder abholen",
+    "forms": "фраза",
+    "trans": "треба залучити всіх зацікавлених",
+    "ex": "Da müssen wir nochmal alle Stakeholder abholen.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "Wir brauchen hier mehr Transparenz",
+    "forms": "фраза",
+    "trans": "потрібно більше прозорості",
+    "ex": "Wir brauchen hier mehr Transparenz.",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "etwas auf dem Schirm haben",
+    "forms": "зворот",
+    "trans": "тримати щось на радарі",
+    "ex": "Hast du den Termin auf dem Schirm?",
+    "cat": "💼 Бізнес"
+  },
+  {
+    "word": "sich die Daumen drücken",
+    "forms": "зворот",
+    "trans": "тримати кулаки",
+    "ex": "Ich drücke dir die Daumen!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Ich bin fix und fertig",
+    "forms": "фраза",
+    "trans": "я виснажений",
+    "ex": "Nach der Arbeit bin ich fix und fertig.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Mir fällt ein Stein vom Herzen",
+    "forms": "фраза",
+    "trans": "у мене камінь з душі впав",
+    "ex": "Mir fällt ein Stein vom Herzen.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Da platzt mir der Kragen",
+    "forms": "фраза",
+    "trans": "я вибухаю від злості",
+    "ex": "Da platzt mir der Kragen!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Ich könnte aus der Haut fahren",
+    "forms": "фраза",
+    "trans": "я можу зірватися",
+    "ex": "Ich könnte aus der Haut fahren!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Das ist mir Wurst",
+    "forms": "фраза",
+    "trans": "мені байдуже",
+    "ex": "Das ist mir Wurst.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Ich bin ganz Ohr",
+    "forms": "фраза",
+    "trans": "я весь увага",
+    "ex": "Erzähl, ich bin ganz Ohr.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Das ist der Hammer",
+    "forms": "фраза",
+    "trans": "це щось неймовірне",
+    "ex": "Dein neues Auto ist der Hammer!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Das geht gar nicht",
+    "forms": "фраза",
+    "trans": "це неприпустимо",
+    "ex": "So kannst du dich nicht benehmen – das geht gar nicht!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Das ist nicht mein Ding",
+    "forms": "фраза",
+    "trans": "це не моє",
+    "ex": "Fußball? Nee, das ist nicht mein Ding.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Ich drücke beide Augen zu",
+    "forms": "фраза",
+    "trans": "я заплющую очі на це",
+    "ex": "Normalerweise verboten, aber ich drücke heute mal beide Augen zu.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Kein Problem",
+    "forms": "фраза",
+    "trans": "без проблем",
+    "ex": "Danke für deine Hilfe! – Kein Problem!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Keine Ahnung",
+    "forms": "фраза",
+    "trans": "без поняття",
+    "ex": "Wo ist Anna? – Keine Ahnung!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Mir egal",
+    "forms": "фраза",
+    "trans": "мені однаково",
+    "ex": "Pizza oder Pasta? – Mir egal.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Wie geht's?",
+    "forms": "фраза",
+    "trans": "як справи?",
+    "ex": "Hey, wie geht's dir heute?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Na klar",
+    "forms": "фраза",
+    "trans": "звісно",
+    "ex": "Kommst du mit ins Kino? – Na klar!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Na ja, geht so",
+    "forms": "фраза",
+    "trans": "так собі",
+    "ex": "Wie war dein Tag? – Na ja, geht so.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Keine Lust haben",
+    "forms": "фраза",
+    "trans": "не мати бажання",
+    "ex": "Ich habe keine Lust zu lernen.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Wie bitte?",
+    "forms": "фраза",
+    "trans": "що-що? / перепрошую?",
+    "ex": "Wie bitte? Kannst du das wiederholen?",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Moment mal",
+    "forms": "фраза",
+    "trans": "хвилинку",
+    "ex": "Moment mal, das stimmt nicht!",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Echt?",
+    "forms": "вигук",
+    "trans": "серйозно?",
+    "ex": "Echt? Das wusste ich nicht.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Genau",
+    "forms": "прислівник",
+    "trans": "точно / саме так",
+    "ex": "Genau, so ist es.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Stimmt",
+    "forms": "дієслово",
+    "trans": "правильно / згоден",
+    "ex": "Stimmt, das habe ich vergessen.",
+    "cat": "💬 Розмовне"
+  },
+  {
+    "word": "Vielleicht",
+    "forms": "прислівник",
+    "trans": "можливо",
+    "ex": "Vielleicht komme ich später.",
+   
